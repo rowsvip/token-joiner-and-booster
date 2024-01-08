@@ -1,0 +1,12 @@
+{
+    "captcha_service": "capmonster/2captcha",
+    "captcha_api_key": "",
+    "invite": "discord.gg/gxpack",
+    "joinDelay": 3000,
+    "useProxies": true,
+    "boost": {
+        "enabled": true,
+        "delay": 3000,
+        "serverId": "1122573512796815441"
+    }
+}
