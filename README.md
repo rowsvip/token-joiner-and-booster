@@ -3,11 +3,17 @@ Discord Server Joiner and Booster is a script that allows you to automatically j
 
 Installation
 Download nodejs
+
 git clone https://github.com/rowsvip/token-joiner-and-booster.git
+
 cd token-joiner-and-booster
+
 npm i
+
 node .
+
 Config
+
 The config.json file contains the following properties:
 
 captcha_service: (optional) Your Captcha service (2Captcha or Capmonster)
